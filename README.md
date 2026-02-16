@@ -101,7 +101,7 @@ Percentage Contribution (Urban/Rural, Day/Night)
 
 These measures allowed dynamic KPI visualization and interactive filtering.
 
-📊 5️⃣ Key Findings from Analysis
+ 5️⃣ Key Findings from Analysis
 🔹 Overall Performance
 
 2021 Total Casualties: 222,146
@@ -110,7 +110,7 @@ These measures allowed dynamic KPI visualization and interactive filtering.
 
 YoY Growth: –11.9%
 
-👉 2022 shows measurable improvement compared to 2021.
+ 2022 shows measurable improvement compared to 2021.
 
 🔹 Severity Analysis (2022)
 
@@ -172,7 +172,7 @@ Birmingham recorded the highest casualties.
 
 Requires focused safety intervention.
 
-🎯 6️⃣ Overall Conclusion
+ 6️⃣ Overall Conclusion
 
 Although 2022 shows a –11.9% reduction in total casualties, the analysis reveals that accidents are highly concentrated in:
 
@@ -192,7 +192,7 @@ High-risk city (Birmingham)
 
 This suggests that road safety risks are largely influenced by traffic density and driver behavior, rather than environmental factors alone.
 
-🚦 7️⃣ Final Recommendations
+ 7️⃣ Final Recommendations
 
 To further reduce accident rates:
 
