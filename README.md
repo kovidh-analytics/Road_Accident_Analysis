@@ -1,7 +1,8 @@
 # Road_Accident_Analysis
 
 Road Accident Dashboard Analysis (2021–2022)
-Complete Project Description
+
+
 1️⃣ Project Objective
 
 The objective of this project was to create a Road Accident Dashboard for the years 2021 and 2022 to provide meaningful insights into:
